@@ -1,0 +1,1 @@
+module.exports = { default: { paths: ['features/**/*.feature'], requireModule: ['tsx/cjs'], require: ['src/support/**/*.ts','src/steps/**/*.ts'], format: ['progress','html:reports/cucumber.html','json:reports/cucumber.json'], parallel: 0 } };

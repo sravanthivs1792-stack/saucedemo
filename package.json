@@ -1,0 +1,1 @@
+{"name":"saucedemo-playwright-bdd-portfolio","version":"1.0.0","private":true,"scripts":{"test":"cucumber-js --config cucumber.js","test:smoke":"cucumber-js --config cucumber.js --tags @smoke","typecheck":"tsc --noEmit"},"devDependencies":{"@cucumber/cucumber":"^11.3.0","@playwright/test":"^1.56.0","typescript":"^5.9.0","tsx":"^4.20.0","@types/node":"^22.0.0"}}
